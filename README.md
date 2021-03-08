@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffabd7c2a-dab5-49eb-a449-3be33b82db5f%2FUntitled.png?table=block&id=9697d8de-01e5-476f-a35f-5757e6fb21f2&width=3070&userId=a42fe476-41ce-4f9d-a6bd-7526bb865d8f&cache=v2" width="100%">
 </p>
 
 ## 🚀 Tecnologias
